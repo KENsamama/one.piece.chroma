@@ -6,7 +6,7 @@
   "cover": "https://dosbg3xlm0x1t.cloudfront.net/images/items/08872509872509325501/1200/08872509872509325501.jpg",
   "chapters": 
   {
-	"01": {
+	"1": {
 	  "title": "Tome 01 : ROMANCE DAWN - À l’aube d’une grande aventure",
 	  "volume": "01",
 	  "groups": {
@@ -14,7 +14,7 @@
 	  },
 	  "last_updated": "1619733663"
 	},
-	"02": {
+	"2": {
 	  "title": "Tome 02 : Luffy versus la bande à Baggy !!",
 	  "volume": "02",
 	  "groups": {
@@ -22,7 +22,7 @@
 	  },
 	  "last_updated": "1619733663"
 	},
-	"03": {
+	"3": {
 	  "title": "Tome 03 : Une vérité qui blesse",
 	  "volume": "03",
 	  "groups": {
@@ -30,7 +30,7 @@
 	  },
 	  "last_updated": "1619733663"
 	},
-	"04": {
+	"4": {
 	  "title": "Tome 04 : Attaque au clair de lune",
 	  "volume": "04",
 	  "groups": {
@@ -38,7 +38,7 @@
 	  },
 	  "last_updated": "1619733663"
 	},
-	"05": {
+	"5": {
 	  "title": "Tome 05 : Pour qui sonne le glas",
 	  "volume": "05",
 	  "groups": {
@@ -46,7 +46,7 @@
 	  },
 	  "last_updated": "1619733663"
 	},
-	"06": {
+	"6": {
 	  "title": "Tome 06 : Le serment",
 	  "volume": "06",
 	  "groups": {
@@ -54,7 +54,7 @@
 	  },
 	  "last_updated": "1619733663"
 	},
-	"07": {
+	"7": {
 	  "title": "Tome 07 : Vieux machin",
 	  "volume": "07",
 	  "groups": {
@@ -62,7 +62,7 @@
 	  },
 	  "last_updated": "1619733663"
 	},
-	"08": {
+	"8": {
 	  "title": "Tome 08 : « Je ne mourrai pas ! »",
 	  "volume": "08",
 	  "groups": {
@@ -70,7 +70,7 @@
 	  },
 	  "last_updated": "1619733663"
 	},
-	"09": {
+	"9": {
 	  "title": "Tome 09 : Larmes**",
 	  "volume": "09",
 	  "groups": {
