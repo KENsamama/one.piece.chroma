@@ -1,9 +1,9 @@
 {
   "title": "ONE PIECE [en couleur] par Chromatique",
-  "description": "Luffy, un jeune garçon, rêve de devenir le Roi des Pirates en trouvant le One Piece, le trésor ultime rassemblé par Gol D. Roger, le seul pirate à avoir jamais porté le titre de Roi des Pirates.\n\n\n\n\nChromatique produit et distribue gratuitement les mangas en couleurs non-édités officiellement en France avec des traductions de qualité et des corrections poussées.\n\n\nRetrouvez toutes les informations sur notre serveur Discord : https://discord.gg/3HH8Usj",
+  "description": "Luffy, un jeune garçon, rêve de devenir le Roi des Pirates en trouvant le One Piece, le trésor ultime rassemblé par Gol D. Roger, le seul pirate à avoir jamais porté le titre de Roi des Pirates.\nChromatique produit et distribue gratuitement les mangas en couleurs non-édités en France avec des corrections poussées.\nRetrouvez toutes les informations sur notre serveur Discord : https://discord.gg/3HH8Usj",
   "artist": "Eiichiro Oda",
   "author": "Eiichiro Oda",
-  "cover": "https://dosbg3xlm0x1t.cloudfront.net/images/items/08872509872509325501/1200/08872509872509325501.jpg",
+  "cover": "https://cdn.discordapp.com/attachments/827576781191381035/836673657693798400/1-01.jpg",
   "chapters": 
   {
 	"01": {
